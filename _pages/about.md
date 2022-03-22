@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://ece.princeton.edu/'>Department of Electrical and Computer Engineering</a>. Princeton University.
 
 profile:
   align: right
