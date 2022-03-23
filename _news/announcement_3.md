@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-02-8
+date: 2021-02-09
 inline: true
 ---
 
-Invited Speaker, 2022 <a href='https://openprairie.sdstate.edu/datascience_symposium/2022/'>SDSU Data Science Symposium.
+Paper "HOT-Nets: Higher-Order Topological Neural Networks on Power Distribution Systems" is awarded the 2022 Statistics in Defense and National Security best paper competition award.
