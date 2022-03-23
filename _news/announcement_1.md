@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-02-09
-inline: true
+date: 2022-01-20
+inline: True
 ---
 
-Paper "HOT-Nets: Higher-Order Topological Neural Networks on Power Distribution Systems" is awarded the 2022 Statistics in Defense and National Security best paper competition award.
+<a href='https://openreview.net/forum?id=wv6g8fWLX2q'>TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting </a>was accepted to ICLR 2022 (Spotlight).
