@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-02-09
 inline: true
 ---
 
-A simple inline announcement.
+Paper ``HOT-Nets: Higher-Order Topological Neural Networks on Power Distribution Systems'' is awarded the 2022 Statistics in Defense and National Security best paper competition award.
