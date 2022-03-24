@@ -23,7 +23,8 @@ nav: true
 - New DL Techniques (NSF Travel Award) 2018.
 
 #### Talks
-- Invited talk: Topological data analysis of dynamic Ethereum token networks, [South Dakota State University Data Science Symposium](https://openprairie.sdstate.edu/datascience_symposium/2022/), online, February 8, 2022.
-- Invited talk: Topological data analysis of dynamic Ethereum token networks, [Bits and Blocks (Blockchain) Workshop](https://bitsandblocks2021.super.site/), online, December 18, 2021.
-- Invited talk: Topological Relational Learning on Graphs, [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home), online, October 27, 2021.
-- Presentation, Topological Adversarial Learning on Graphs, Joint Statistical Meetings (JSM), online, August 8, 2021.
+- Invited talk: **Topological data analysis of dynamic Ethereum token networks**, [South Dakota State University Data Science Symposium](https://openprairie.sdstate.edu/datascience_symposium/2022/), online, February 8, 2022.
+- Invited talk: **Topological data analysis of dynamic Ethereum token networks**, [Bits and Blocks (Blockchain) Workshop](https://bitsandblocks2021.super.site/), online, December 18, 2021.
+- Invited talk: **Topological Relational Learning on Graphs**, [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home), online, October 27, 2021.
+- Presentation: **Topological Adversarial Learning on Graphs**, Joint Statistical Meetings (JSM), online, August 8, 2021.
+- Invited talk: **Multidimensional Persistence for Analysis of Dynamic Ethereum Token Networks**, [NSF DMS Workshop on Mathematical Methods for Blockchain Data Analysis](https://sites.google.com/view/nsf-blockchain-workshop/home), online, June 6, 2021.
