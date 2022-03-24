@@ -26,5 +26,6 @@ nav: true
 - Invited talk: **Topological data analysis of dynamic Ethereum token networks**, [South Dakota State University Data Science Symposium](https://openprairie.sdstate.edu/datascience_symposium/2022/), online, February 8, 2022.
 - Invited talk: **Topological data analysis of dynamic Ethereum token networks**, [Bits and Blocks (Blockchain) Workshop](https://bitsandblocks2021.super.site/), online, December 18, 2021.
 - Invited talk: **Topological Relational Learning on Graphs**, [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home), online, October 27, 2021.
-- Presentation: **Topological Adversarial Learning on Graphs**, Joint Statistical Meetings (JSM), online, August 8, 2021.
+- Presentation: **Topological Adversarial Learning on Graphs**, [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220695), online, August 8, 2021.
 - Invited talk: **Multidimensional Persistence for Analysis of Dynamic Ethereum Token Networks**, [NSF DMS Workshop on Mathematical Methods for Blockchain Data Analysis](https://sites.google.com/view/nsf-blockchain-workshop/home), online, June 6, 2021.
+- Presentation: **Understanding Power Grid Network Vulnerability Through the Stochastic Lens of Network Motif Evolution**, [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=313815), online, August 5, 2020.
