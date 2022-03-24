@@ -34,7 +34,7 @@ nav: true
 - Invited talk: **Multidimensional Persistence for Analysis of Dynamic Ethereum Token Networks**, [NSF DMS Workshop on Mathematical Methods for Blockchain Data Analysis](https://sites.google.com/view/nsf-blockchain-workshop/home), online, June 6, 2021.
 - Presentation: **Topological machine learning methods for power system responses to contingencies**, IAAI/AAAI, online, February 2, 2021.
 - Presentation: **Deepening the Sense of Touch in Planetary Exploration with Geometric and Topological Deep Learning**, IAAI/AAAI, online, February 2, 2021.
-- Presentation: **LFGCN: Levitating over Graphs with Levy Flights**, ICDM, onlien, November 17, 2020.
+- Presentation: **LFGCN: Levitating over Graphs with Levy Flights**, ICDM, online, November 17, 2020.
 - Presentation: **Understanding Power Grid Network Vulnerability Through the Stochastic Lens of Network Motif Evolution**, [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=313815), online, August 5, 2020.
 - Presentation: **Deep Learning Ethereum Token Price Prediction with Network Motif Analysis**, BAI@ICDM, Beijing, China, November 8, 2019.
 - Presentation: **Understanding Power Grid Network Vulnerability Through the Stochastic Lens of Network Motif Evolution**, NSF ATD+AMPS workshop, Washington DC, October 22, 2019.
