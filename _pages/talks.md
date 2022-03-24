@@ -30,5 +30,14 @@ nav: true
 - Presentation: **Topological Relational Learning on Graphs**, NeurIPS, online, December 6, 2021.
 - Invited talk: **Topological Relational Learning on Graphs**, [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/home), online, October 27, 2021.
 - Presentation: **Topological Adversarial Learning on Graphs**, [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220695), online, August 8, 2021.
+- Presentation: **Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting**, ICML, online, July 18, 2021.
 - Invited talk: **Multidimensional Persistence for Analysis of Dynamic Ethereum Token Networks**, [NSF DMS Workshop on Mathematical Methods for Blockchain Data Analysis](https://sites.google.com/view/nsf-blockchain-workshop/home), online, June 6, 2021.
+- Presentation: **Topological machine learning methods for power system responses to contingencies**, IAAI/AAAI, online, February 2, 2021.
+- Presentation: **Deepening the Sense of Touch in Planetary Exploration with Geometric and Topological Deep Learning**, IAAI/AAAI, online, February 2, 2021.
+- Presentation: **LFGCN: Levitating over Graphs with Levy Flights**, ICDM, onlien, November 17, 2020.
 - Presentation: **Understanding Power Grid Network Vulnerability Through the Stochastic Lens of Network Motif Evolution**, [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=313815), online, August 5, 2020.
+- Presentation: **Deep Learning Ethereum Token Price Prediction with Network Motif Analysis**, BAI@ICDM, Beijing, China, November 8, 2019.
+- Presentation: **Understanding Power Grid Network Vulnerability Through the Stochastic Lens of Network Motif Evolution**, NSF ATD+AMPS workshop, Washington DC, October 22, 2019.
+- Presentation: **Deep Learning Ethereum Token Price Prediction with Network Motif Analysis**, Foundations for Blockchain Data Analytics, SAMSI, Durham, NC, October 7, 2019.
+- Presentation: **Understanding Power Grid Network Vulnerability Through the Stochastic Lens of Network Motif Evolution**, Southern Regional Council on Statistics, Carollton, KY, June, 2019.
+- Presentation: **Deep Ensemble Classifiers and Peer Effects Analysis for Churn Forecasting in Retail Banking**, PaKDD, Melbourne, Australia, June, 2019.
