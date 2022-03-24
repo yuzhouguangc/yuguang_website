@@ -6,7 +6,16 @@ description:
 nav: true
 ---
 
-#### Program Committee Members
+#### Organizer
+
+Founding co-Director of [Environmetrics Webinar Series (https://www.environmetrics.xyz/)], 2022.
+
+Session chair of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021.
+
+Co-organizer of the [IJCAI-PRICAI Workshop on Blockchain and AI (https://blockchaindataanalytics.github.io/IJCAI2020/index.html)], (BAI@IJCAI-PRICAI), 2021.
+
+
+#### Conference Program Committee Member
 
 The International Conference on Machine Learning (ICML), 2022.
 
@@ -32,8 +41,10 @@ The European Conference on Machine Learning and Principles and Practice of Knowl
 
 SIGKDD Workshop on Mining and Learning from Time Series (MLTS@KDD), 2021.
 
+IJCAI-PRICAI Workshop on Blockchain and AI (BAI@IJCAI-PRICAI), 2020.
 
-#### Reviewers for Journals
+
+#### Journal Reviewer
 
 IEEE International Symposium on Information Theory (ISIT), 2022.
 
