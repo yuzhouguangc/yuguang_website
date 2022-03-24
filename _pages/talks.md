@@ -40,4 +40,5 @@ nav: true
 - Presentation: **Understanding Power Grid Network Vulnerability Through the Stochastic Lens of Network Motif Evolution**, NSF ATD+AMPS workshop, Washington DC, October 22, 2019.
 - Presentation: **Deep Learning Ethereum Token Price Prediction with Network Motif Analysis**, Foundations for Blockchain Data Analytics, SAMSI, Durham, NC, October 7, 2019.
 - Presentation: **Understanding Power Grid Network Vulnerability Through the Stochastic Lens of Network Motif Evolution**, Southern Regional Council on Statistics, Carollton, KY, June, 2019.
-- Presentation: **Deep Ensemble Classifiers and Peer Effects Analysis for Churn Forecasting in Retail Banking**, PaKDD, Melbourne, Australia, June, 2019.
+- Presentation: **Deep Ensemble Classifiers and Peer Effects Analysis for Churn Forecasting in Retail Banking**, PaKDD, Melbourne, Australia, June, 2018.
+- Presentation: **Snowboot: Bootstrap Methods for Network Inference**, Conference of Texas Statisticians, Dallas, TX, March, 2017.
