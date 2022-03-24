@@ -14,7 +14,7 @@ nav: true
 
 - Co-organizer of the [IJCAI-PRICAI Workshop on Blockchain and AI](https://blockchaindataanalytics.github.io/IJCAI2020/index.html), (BAI@IJCAI-PRICAI), 2021.
 
-- Co-organizer/Chair of the invited session on ["How Statistics and Data Science Help to Quantify Resilience of Power Systems(https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?sessionid=219408) (JSM), 2020.
+- Co-organizer/Chair of the invited session on ["How Statistics and Data Science Help to Quantify Resilience of Power Systems](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?sessionid=219408) (JSM), 2020.
 
 
 #### Conference Program Committee Member
