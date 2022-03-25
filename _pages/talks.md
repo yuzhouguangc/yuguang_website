@@ -23,6 +23,7 @@ nav: true
 - New DL Techniques (NSF Travel Award) 2018.
 
 #### Talks
+- Invited talk: **Topological data analysis and geometric deep learning for dynamic Ethereum token networks forecasting**, International Conference on Econometrics and Statistics (EcoSta), June, 2022.
 - Presentation: **BScNets: Block Simplicial Complex Neural Networks**, AAAI, online, February 24/26, 2022.
 - Presentation: **TCN: Pioneering Topological-based Convolutional Networks for Planetary Terrain Learning**, IAAI/AAAI, online, February 24/27, 2022.
 - Invited talk: **Topological data analysis of dynamic Ethereum token networks**, [South Dakota State University Data Science Symposium](https://openprairie.sdstate.edu/datascience_symposium/2022/), online, February 8, 2022.
