@@ -8,7 +8,7 @@ profile:
   align: right
   image: yuzhou_pic.jpg
   address: >
-    <p>Friend Center 306</p>
+    <p>Friend Center</p>
     <p>William St</p>
     <p>Princeton, NJ 08544</p>
 
