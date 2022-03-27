@@ -7,7 +7,7 @@ nav: true
 ---
 
 #### Panelist
-- NSF Division of Mathematical Sciences Panel, 2022.
+- NSF Division of Mathematical Sciences (DMS) Panel, 2022.
 
 #### Organizer
 
