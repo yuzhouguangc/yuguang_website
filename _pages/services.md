@@ -36,7 +36,7 @@ nav: true
 
 - The International Conference on Learning Representations (ICLR), 2022.
 
-- ICLR Workshop on Geometrical and Topological Representation Learning, (GTRL@ICLR) 2022.
+- ICLR Workshop on Geometrical and Topological Representation Learning (GTRL@ICLR), 2022.
 
 - The Web Conference (WWW), 2022.
 
