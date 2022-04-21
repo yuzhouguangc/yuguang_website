@@ -23,6 +23,7 @@ nav: true
 
 
 #### Conference Program Committee Member
+- Neural Information Processing Systems (NeurIPS), 2022.
 
 - The International Conference on Machine Learning (ICML), 2022.
 
