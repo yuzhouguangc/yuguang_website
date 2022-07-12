@@ -23,6 +23,8 @@ nav: true
 
 
 #### Conference Program Committee Member
+- Learning on Graphs Conference (LoG), 2022.
+
 - Neural Information Processing Systems (NeurIPS), 2022.
 
 - The International Conference on Machine Learning (ICML), 2022.
@@ -53,6 +55,7 @@ nav: true
 
 
 #### Journal Reviewer
+- Electronic Journal of Statistics (EJS), 2022.
 
 - IEEE International Symposium on Information Theory (ISIT), 2022.
 
