@@ -8,9 +8,8 @@ profile:
   align: right
   image: yuzhou_pic.jpg
   address: >
-    <p>Friend Center</p>
-    <p>William St</p>
-    <p>Princeton, NJ 08544</p>
+    <p>Science Education and Research Center (SERC)</p>
+    <p>Temple University, Philadelphia, PA 19122</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
