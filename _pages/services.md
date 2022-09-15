@@ -23,6 +23,12 @@ nav: true
 
 
 #### Conference Program Committee Member
+- AAAI Conference on Artificial Intelligence (AAAI), 2023.
+
+
+- Web Search and Data Mining (WSDM), 2023.
+
+
 - Learning on Graphs Conference (LoG), 2022.
 
 - Neural Information Processing Systems (NeurIPS), 2022.
