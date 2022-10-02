@@ -21,5 +21,5 @@ I am a tenure-track Assistant Professor in Department of Computer and Informatio
 My research interests are graph mining, reliability theory, machine learning, (geometric) deep learning, nonparametric statistics, topological data analysis, semi-supervised classification, and life-testing procedures, in application to power systems and blockchain.
 
 #### [Recruiting New Students]()
-I am looking for highly motivated and self-driven students, who are interested in machine learrning/deep learning on graphs, data mining, and topological and geometric methods in statistics. Master's and undergraduate students at Temple University, and self-funded visiting students and scholars are also welcome to apply. If you are interested, please contact me at <yuzhou.chen@temple.edu>. Include your CV and brief highlights of ML/DL/Statistics-related projects.
+I am looking for highly motivated and self-driven students, who are interested in machine learning/deep learning on graphs, data mining, and topological and geometric methods in statistics. Master's and undergraduate students at Temple University, and self-funded visiting students and scholars are also welcome to apply. If you are interested, please contact me at <yuzhou.chen@temple.edu>. Include your CV and brief highlights of ML/DL/Statistics-related projects.
 
