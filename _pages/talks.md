@@ -23,6 +23,8 @@ nav: true
 - New DL Techniques (NSF Travel Award) 2018.
 
 #### Talks
+- Invited talk: The 2022 Annual Meeting of The International Environmetrics Society (TIES), November 18, 2022.
+- Presentation: **Quantifying Resilience of Mobility Networks to Natural Hazards through Topological Data Analysis**, ENVR 2022 Workshop: Environmental and Ecological Statistical Research and Applications with Societal Impacts, Provo, UT, October 6, 2022.
 - Invited talk: **Topological data analysis and geometric deep learning for dynamic Ethereum token networks forecasting**, International Conference on Econometrics and Statistics (EcoSta), June, 2022.
 - Presentation: **BScNets: Block Simplicial Complex Neural Networks**, AAAI, online, February 24/26, 2022.
 - Presentation: **TCN: Pioneering Topological-based Convolutional Networks for Planetary Terrain Learning**, IAAI/AAAI, online, February 24/27, 2022.
