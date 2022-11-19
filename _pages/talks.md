@@ -23,7 +23,8 @@ nav: true
 - New DL Techniques (NSF Travel Award) 2018.
 
 #### Talks
-- Invited talk: The 2022 Annual Meeting of The International Environmetrics Society (TIES), November 18, 2022.
+- Presentation: **Time Dimension Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting**, NeurIPS, New Orleans, LA, December 3, 2022.
+- Invited talk: **Assessing Urban Form and Climate Justice with Deep Learning**, [The 2022 Annual Meeting of The International Environmetrics Society (TIES)] (https://www.environmetrics.xyz/TIES2022), online, November 18, 2022.
 - Presentation: **Quantifying Resilience of Mobility Networks to Natural Hazards through Topological Data Analysis**, ENVR 2022 Workshop: Environmental and Ecological Statistical Research and Applications with Societal Impacts, Provo, UT, October 6, 2022.
 - Invited talk: **Topological data analysis and geometric deep learning for dynamic Ethereum token networks forecasting**, International Conference on Econometrics and Statistics (EcoSta), June, 2022.
 - Presentation: **BScNets: Block Simplicial Complex Neural Networks**, AAAI, online, February 24/26, 2022.
