@@ -23,11 +23,11 @@ nav: true
 
 
 #### Conference Program Committee Member
+- The Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+
 - AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
-
 - Web Search and Data Mining (WSDM), 2023.
-
 
 - Learning on Graphs Conference (LoG), 2022.
 
@@ -61,6 +61,8 @@ nav: true
 
 
 #### Journal Reviewer
+- Technometrics, 2022.
+
 - Electronic Journal of Statistics (EJS), 2022.
 
 - IEEE International Symposium on Information Theory (ISIT), 2022.
