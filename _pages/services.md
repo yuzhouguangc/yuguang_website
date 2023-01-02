@@ -25,6 +25,10 @@ nav: true
 #### Conference Program Committee Member
 - The Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
+- The International Conference on Machine Learning (ICML), 2023, 2022.
+
+- SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023, 2022.
+
 - AAAI Conference on Artificial Intelligence (AAAI), 2023.
 
 - Web Search and Data Mining (WSDM), 2023.
@@ -32,10 +36,6 @@ nav: true
 - Learning on Graphs Conference (LoG), 2022.
 
 - Neural Information Processing Systems (NeurIPS), 2022.
-
-- The International Conference on Machine Learning (ICML), 2022.
-
-- SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.
 
 - The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022.
 
@@ -61,14 +61,14 @@ nav: true
 
 
 #### Journal Reviewer
-- Technometrics, 2022.
+- Technometrics
 
-- Electronic Journal of Statistics (EJS), 2022.
+- Electronic Journal of Statistics (EJS)
 
-- IEEE International Symposium on Information Theory (ISIT), 2022.
+- IEEE International Symposium on Information Theory (ISIT)
 
-- The International Conference on Very Large Data Bases (VLDB), 2022.
+- The International Conference on Very Large Data Bases (VLDB)
 
-- Journal of Communications and Networks (JCN), 2021.
+- Journal of Communications and Networks (JCN)
 
-- Computational Statistics & Data Analysis (CSDA), 2020.
+- Computational Statistics & Data Analysis (CSDA)
