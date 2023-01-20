@@ -29,7 +29,9 @@ nav: true
 
 - SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023, 2022.
 
-- AAAI Conference on Artificial Intelligence (AAAI), 2023.
+- AAAI Conference on Artificial Intelligence (AAAI), 2023, 2022.
+
+- The International Joint Conference on Artificial Intelligence and the European Conference on Artificial Intelligence (IJCAI-ECAI), 2023, 2022.
 
 - Web Search and Data Mining (WSDM), 2023.
 
@@ -37,11 +39,7 @@ nav: true
 
 - Neural Information Processing Systems (NeurIPS), 2022.
 
-- The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022.
-
-- The International Joint Conference on Artificial Intelligence and the European Conference on Artificial Intelligence (IJCAI-ECAI), 2022.
-
-- The International Joint Conference on Artificial Intelligence and the European Conference on Artificial Intelligence (IJCAI-ECAI; Special Track), 2022.
+- The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022, 2021.
 
 - The International Conference on Learning Representations (ICLR), 2022.
 
@@ -49,11 +47,7 @@ nav: true
 
 - The Web Conference (WWW), 2022.
 
-- AAAI Conference on Artificial Intelligence (AAAI), 2022.
-
 - The IEEE International Conference on Blockchain Computing and Applications (BCCA), 2021.
-
-- The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021.
 
 - SIGKDD Workshop on Mining and Learning from Time Series (MLTS@KDD), 2021.
 
