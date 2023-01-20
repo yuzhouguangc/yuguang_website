@@ -6,9 +6,6 @@ description:
 nav: true
 ---
 
-#### Panelist
-- NSF Division of Mathematical Sciences (DMS) Panel, 2022.
-
 #### Organizer
 
 - Founding co-Director of [Environmetrics Webinar Series](https://www.environmetrics.xyz/), 2022.
