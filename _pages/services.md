@@ -20,6 +20,10 @@ nav: true
 
 
 #### Conference Program Committee Member
+- The International Conference on Computer Vision (ICCV), 2023.
+
+- The International Conference on Sampling Theory and Applications (SampTA), 2023.
+ 
 - The Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
 - The International Conference on Machine Learning (ICML), 2023, 2022.
@@ -28,7 +32,7 @@ nav: true
 
 - AAAI Conference on Artificial Intelligence (AAAI), 2023, 2022.
 
-- The International Joint Conference on Artificial Intelligence and the European Conference on Artificial Intelligence (IJCAI-ECAI), 2023, 2022.
+- The International Joint Conferences on Artificial Intelligence (IJCAI), 2023, 2022.
 
 - Web Search and Data Mining (WSDM), 2023.
 
@@ -52,6 +56,8 @@ nav: true
 
 
 #### Journal Reviewer
+- Transactions on Knowledge and Data Engineering (TKDE)
+
 - Technometrics
 
 - Electronic Journal of Statistics (EJS)
