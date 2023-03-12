@@ -23,6 +23,7 @@ nav: true
 - New DL Techniques (NSF Travel Award) 2018.
 
 #### Talks
+- Presentation: **Topological Pooling on Graphs**, AAAI, Washington, D.C., February 12, 2023.
 - Invited talk: **Towards Understanding the Internet Measurement through Higherorder Structures and Statistical Learning**, NSF Workshop on Internet Measurement and Statistics, Boston, MA, January 11-12, 2023.
 - Presentation: **Time Dimension Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting**, NeurIPS, New Orleans, LA, December 3, 2022.
 - Invited talk: **Assessing Urban Form and Climate Justice with Deep Learning**, [The 2022 Annual Meeting of The International Environmetrics Society (TIES)](https://www.environmetrics.xyz/TIES2022), online, November 18, 2022.
