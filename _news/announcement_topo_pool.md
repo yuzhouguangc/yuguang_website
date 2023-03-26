@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-19
+date: 2023-03-22
 inline: true
 ---
 
-One paper was accepted to **AAAI 2023**!
+One paper was accepted to **IEEE Transactions on Power Systems**!
