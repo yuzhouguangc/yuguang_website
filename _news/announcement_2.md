@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-18
+date: 2023-03-18
 inline: true
 ---
 
-[The 2022 Annual Meeting of The International Environmetrics Society (**TIES**)](https://www.environmetrics.xyz/TIES2022) has been held successfully! Thank all attendees!
+Our workshop Data Mining for Climate Change and Health Equity (DMC^2HE) was accepted by ICDM 2023!
