@@ -8,7 +8,7 @@ nav: true
 
 #### Organizer
 
-- Founding co-Director of [Environmetrics Webinar Series](https://www.environmetrics.xyz/), 2023, 2022.
+- Founding co-Director of [Environmetrics Webinar Series](https://www.environmetrics.xyz/), 2022, 2023.
 
 - Chair of ASA Business and Economic Statistics Section (JSM), 2022.
 
