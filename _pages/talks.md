@@ -23,6 +23,7 @@ nav: true
 - New DL Techniques (NSF Travel Award) 2018.
 
 #### Talks
+- Invited talk: **Topological Data Analysis of Dynamic Ethereum Token Networks**, The 36th New England Statistics Symposium (NESS), Boston, MA, June 5, 2023.
 - Presentation: **Topological Pooling on Graphs**, AAAI, Washington, D.C., February 12, 2023.
 - Invited talk: **Towards Understanding the Internet Measurement through Higherorder Structures and Statistical Learning**, NSF Workshop on Internet Measurement and Statistics, Boston, MA, January 11-12, 2023.
 - Presentation: **Time Dimension Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting**, NeurIPS, New Orleans, LA, December 3, 2022.
