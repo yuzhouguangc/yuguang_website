@@ -22,8 +22,6 @@ nav: true
 #### Conference Program Committee Member
 - Neural Information Processing Systems (NeurIPS), 2022. 2023.
 
-- The International Conference on Computer Vision (ICCV), 2023.
-
 - The International Conference on Sampling Theory and Applications (SampTA), 2023.
  
 - The Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
@@ -32,13 +30,13 @@ nav: true
 
 - SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022, 2023.
 
-- AAAI Conference on Artificial Intelligence (AAAI), 2022, 2023.
+- AAAI Conference on Artificial Intelligence (AAAI), 2022, 2023, 2024.
 
 - The International Joint Conferences on Artificial Intelligence (IJCAI), 2021, 2022, 2023.
 
-- Web Search and Data Mining (WSDM), 2023.
+- Web Search and Data Mining (WSDM), 2023, 2024.
 
-- Learning on Graphs Conference (LoG), 2022.
+- Learning on Graphs Conference (LoG), 2022, 2023.
 
 - The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021, 2022.
 
@@ -56,6 +54,9 @@ nav: true
 
 
 #### Journal Reviewer
+- Journal of Applied Statistics
+- Mayo Clinic Proceedings: Digital Health
+- IEEE Transactions on Reliability
 - Transactions on Knowledge and Data Engineering (TKDE)
 
 - Technometrics
