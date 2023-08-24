@@ -23,6 +23,8 @@ nav: true
 - New DL Techniques (NSF Travel Award) 2018.
 
 #### Talks
+- Invited talk: **Zigzag Persistence and Graph Convolutional Networks for Time Series Forecasting**, [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2023/), Toronto, Canada, August 10, 2023.
+- Invited talk: **Zigzag Filtration Curve Based Supra-Hodge Convolution Networks for Dynamic Ethereum Token Networks Forecasting**, International Conference on Econometrics and Statistics (EcoSta), online, August 2, 2023.
 - Invited talk: **Coupling Time-Aware Multipersistence Knowledge Representation with Graph Convolutional Networks for Time Series Forecasting**, The 10th International Purdue Symposium on Statistics, West Lafayette, IN, June 9, 2023.
 - Invited talk: **Topological Data Analysis of Dynamic Ethereum Token Networks**, The 36th New England Statistics Symposium (NESS), Boston, MA, June 5, 2023.
 - Presentation: **Topological Pooling on Graphs**, AAAI, Washington, D.C., February 12, 2023.
@@ -30,7 +32,7 @@ nav: true
 - Presentation: **Time Dimension Dances with Simplicial Complexes: Zigzag Filtration Curve based Supra-Hodge Convolution Networks for Time-series Forecasting**, NeurIPS, New Orleans, LA, December 3, 2022.
 - Invited talk: **Assessing Urban Form and Climate Justice with Deep Learning**, [The 2022 Annual Meeting of The International Environmetrics Society (TIES)](https://www.environmetrics.xyz/TIES2022), online, November 18, 2022.
 - Presentation: **Quantifying Resilience of Mobility Networks to Natural Hazards through Topological Data Analysis**, ENVR 2022 Workshop: Environmental and Ecological Statistical Research and Applications with Societal Impacts, Provo, UT, October 6, 2022.
-- Invited talk: **Topological data analysis and geometric deep learning for dynamic Ethereum token networks forecasting**, International Conference on Econometrics and Statistics (EcoSta), June, 2022.
+- Invited talk: **Topological data analysis and geometric deep learning for dynamic Ethereum token networks forecasting**, International Conference on Econometrics and Statistics (EcoSta), online, June, 2022.
 - Presentation: **BScNets: Block Simplicial Complex Neural Networks**, AAAI, online, February 24/26, 2022.
 - Presentation: **TCN: Pioneering Topological-based Convolutional Networks for Planetary Terrain Learning**, IAAI/AAAI, online, February 24/27, 2022.
 - Invited talk: **Topological data analysis of dynamic Ethereum token networks**, [South Dakota State University Data Science Symposium](https://openprairie.sdstate.edu/datascience_symposium/2022/), online, February 8, 2022.
