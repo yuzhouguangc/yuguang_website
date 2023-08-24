@@ -23,6 +23,7 @@ nav: true
 - New DL Techniques (NSF Travel Award) 2018.
 
 #### Talks
+- Invited talk: **Coupling Time-Aware Multipersistence Knowledge Representation with Graph Convolutional Networks for Time Series Forecasting**, The 10th International Purdue Symposium on Statistics, West Lafayette, IN, June 9, 2023.
 - Invited talk: **Topological Data Analysis of Dynamic Ethereum Token Networks**, The 36th New England Statistics Symposium (NESS), Boston, MA, June 5, 2023.
 - Presentation: **Topological Pooling on Graphs**, AAAI, Washington, D.C., February 12, 2023.
 - Invited talk: **Towards Understanding the Internet Measurement through Higherorder Structures and Statistical Learning**, NSF Workshop on Internet Measurement and Statistics, Boston, MA, January 11-12, 2023.
