@@ -55,8 +55,11 @@ nav: true
 
 #### Journal Reviewer
 - Journal of Applied Statistics
+  
 - Mayo Clinic Proceedings: Digital Health
+  
 - IEEE Transactions on Reliability
+  
 - Transactions on Knowledge and Data Engineering (TKDE)
 
 - Technometrics
