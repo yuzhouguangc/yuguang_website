@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards & honors & talks/
-title: Awards & Talks
+title: Awards & Honors & Talks
 description: 
 nav: true
 ---
