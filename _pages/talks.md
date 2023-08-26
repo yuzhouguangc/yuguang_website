@@ -14,7 +14,7 @@ nav: true
       
 - NASA: Innovative Geometric Deep Learning Models for Onboard Detection of Anomalous Events
     - $599,788 (My share: $80,003)
-    - 06/01/2023 - 11/30/2023
+    - 06/01/2022 - 11/30/2023
     - Role: Co-PI
 
 #### Honors and Awards
