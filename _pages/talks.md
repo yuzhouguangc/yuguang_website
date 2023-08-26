@@ -6,6 +6,17 @@ description:
 nav: true
 ---
 
+#### Current Fundings
+- NSF: Collaborative Research: Planning: FIRE-PLAN: Advancing Wildland Fire Analytics for Actuarial Applications and Beyond
+    - $199,949 (My share: $129,949)
+    - 10/15/2023 - 10/14/2025
+    - Role: PI
+      
+- NASA: Innovative Geometric Deep Learning Models for Onboard Detection of Anomalous Events
+    - $599,788 (My share: $80,003)
+    - 06/01/2023 - 11/30/2023
+    - Role: Co-PI
+
 #### Honors and Awards
 
 - ASA SDNS Best Student Paper Award 2022.
