@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards & honors & talks/
-title: Awards & Honors & Talks
+permalink: /fundings & awards & talks/
+title: Fundings & Awards & Talks
 description: 
 nav: true
 ---
