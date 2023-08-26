@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /awards & talks/
+permalink: /awards & honors & talks/
 title: Awards & Talks
 description: 
 nav: true
