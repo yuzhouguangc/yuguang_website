@@ -7,7 +7,7 @@ nav: true
 ---
 
 #### Organizer
-- Co-organizer of the [IJCAI Workshop on Bridge-AI: from Climate Change to Health Equity]([https://blockchaindataanalytics.github.io/IJCAI2020/index.html](https://sites.google.com/view/bridgeai/home)), (Bridge-AI@IJCAI), 2023.
+- Co-organizer of the [IJCAI Workshop on Bridge-AI: from Climate Change to Health Equity](https://sites.google.com/view/bridgeai/home), (Bridge-AI@IJCAI), 2023.
 
 - Co-organizer of the [KDD Workshop on Fragile Earth: AI for Climate Sustainability - from Wildfire Disaster Management to Public Health and Beyond](https://ai4good.org/fragile-earth-2023/), (Fragile Earth@KDD), 2023.
 
