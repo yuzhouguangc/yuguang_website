@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-06-07
+date: 2023-09-16
 inline: true
 ---
 
-One paper was accepted to **ECML-PKDD 2023**!
+**PNAS**: A Simplicial Epidemic Model for COVID-19 Spread Analysis!
