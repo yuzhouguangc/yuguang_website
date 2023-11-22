@@ -4,4 +4,4 @@ date: 2023-11-18
 inline: true
 ---
 
-**LOG2023**: [Networks to Graph](OpenReview) and [Effective Multidimensional Persistence](OpenReview)!
+Two papers [Networks to Graph](OpenReview) and [Effective Multidimensional Persistence](OpenReview) accepted by **LOG2023**!
