@@ -21,5 +21,5 @@ I am a tenure-track Assistant Professor in [Department of Computer and Informati
 My research interests are machine learning, deep learning, graph mining, topological data analysis, reliability theory, nonparametric statistics, and their applications. For more details, see my [CV](https://www.dropbox.com/scl/fi/auavcmfxy9f5o3ihdaxd3/Feb-CV-YChen.pdf?rlkey=tlvaibhdqr8z452t8dr6tfwgy&dl=0).
 
 #### [Recruiting New Students]()
-I am looking for highly motivated and self-driven students, who are interested in machine learning, deep learning on graphs, data mining, and topological and geometric methods in statistics. If you are interested, please contact me at yuzhou.chen AT temple.edu. Include your CV and brief highlights of ML/DL/Statistics-related projects.
+I am looking for highly motivated and self-driven students, who are interested in machine learning, deep learning, data mining, and topological and geometric methods in statistics. If you are interested, please contact me at yuzhou.chen AT temple.edu. Include your CV and brief highlights of ML/DL/Statistics-related projects.
 
