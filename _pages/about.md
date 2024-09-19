@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cis.temple.edu/'>Department of Statistics</a>. University of California, Riverside.
+subtitle: <a href='https://statistics.ucr.edu/'>Department of Statistics</a>. University of California, Riverside.
 
 profile:
   align: right
