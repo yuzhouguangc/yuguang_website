@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cis.temple.edu/'>Department of Computer and Information Sciences</a>. Temple University.
+subtitle: <a href='https://cis.temple.edu/'>Department of Statistics</a>. University of California, Riverside.
 
 profile:
   align: right
